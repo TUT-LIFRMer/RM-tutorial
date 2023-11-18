@@ -8,8 +8,10 @@ echo please use the echo command to output strings
 echo thses lines were added by brucekomike
 echo and this script regard you as $USER
 echo seems that you are using $SHELL as default shell
-# here place your custom code plz
-# something like 
+# here place your custom code plz 请在下面添加你的代码
+# something like 就例如
 #
 #echo this is my custom code
-#
+#echo 我写了一行
+
+echo text
